@@ -19,4 +19,4 @@ https://github.com/85jatin/GL_Capstone/blob/master/Exp_2_Test_Validation_MobileN
 ## 4 Exp_2 MobileNet 
 MobileNet_DL, 174 shots, 5426 frames (tailing 50% from all vidoes, background substraction)
 ### 73% accuracy at predicting Direction (improved weighted avg accuracy)
-https://github.com/85jatin/GL_Capstone/blob/master/Exp_2_Test_Validation_MobileNet%20pre-trained%20model%20implementation_last_25%25_frames.ipynb
+https://github.com/85jatin/GL_Capstone/blob/master/Exp_3_Test_Validation_MobileNet%20pre-trained%20model%20implementation_50%25frames_backgroundSub.ipynb
