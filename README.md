@@ -20,3 +20,8 @@ https://github.com/85jatin/GL_Capstone/blob/master/Exp_2_Test_Validation_MobileN
 MobileNet_DL, 174 shots, 2679 frames (tailing 25% from all vidoes, background substraction)
 ### 80% accuracy at predicting Direction 
 https://github.com/85jatin/GL_Capstone/blob/master/Exp_3_Test_Validation_MobileNet%20pre-trained%20model%20implementation_50%25frames_backgroundSub.ipynb
+## 5 Exp_4 InceptionResnetV2
+InceptionResnetV2_DL, 174 shots, 2596 frames (tailing 25% from all videos, background substraction)
+NOTE: Problem statement reframed (binary classification - OffSide/Legside; Straight class dropped)
+### 87% accuracy at binary Direction class inferences
+https://github.com/85jatin/GL_Capstone/blob/master/Exp_4_Test_Validation_InceptionResnetV2%20pre-trained%20model%20implementation_25%25frames_backgroundSub_binary.ipynb
