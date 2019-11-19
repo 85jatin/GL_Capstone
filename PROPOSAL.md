@@ -14,6 +14,7 @@ Infer batsman’s position while playing a cricket shot and predict performance 
 2. Image preprocessing techniques
 3. Apply transfer-learning from pretrained models (VGG16, MobileNet, etc) to extract features
 4. Train 5 DL models to predict inference from each frame - Direction, location, control, type and aerial
+(WIP Updates: Direction classification 86% accuracy recorded)
 5. Conclude most common prediction for required frames from videos to predict video class
 ## Example: 
 Direction - Offside (covers), Control - Yes, Type - Aggressive, Aerial - Yes
